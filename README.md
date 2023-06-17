@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamiduv1" target="blank"><img src="https://img.shields.io/twitter/follow/hamiduv1?logo=twitter&style=for-the-badge" alt="hamiduv1" /></a> </p>
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **hamiduv0007@gmail.com**
 
