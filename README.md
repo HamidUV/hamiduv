@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- - 👨‍💻 All of my projects are available at [https://github.com/HamidUV](https://github.com/HamidUV)
+- 👨‍💻 All of my projects are available at [https://github.com/HamidUV](https://github.com/HamidUV)
 
 - 📫 How to reach me **hamiduv0007@gmail.com**
 
