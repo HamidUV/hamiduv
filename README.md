@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hamid.codehub@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eqU9xadgUyRugryO_KjpReYsYgmiwOSj/view?usp=drive_link](https://drive.google.com/file/d/1eqU9xadgUyRugryO_KjpReYsYgmiwOSj/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
