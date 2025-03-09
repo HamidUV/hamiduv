@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamiduv1" target="blank"><img src="https://img.shields.io/twitter/follow/hamiduv1?logo=twitter&style=for-the-badge" alt="hamiduv1" /></a> </p>
 
-- 🌱 I’m currently learning **React & Redux**
+- 🌱 Growth blossoms from trying, learning and evolving ✅
 
 - 💬 Ask me about **MERN**
 
